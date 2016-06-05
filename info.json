@@ -1,0 +1,10 @@
+{
+  "name": "HyperInserters",
+  "version": "0.0.1",
+  "title": "Hyper Inserters",
+  "author": "Reika",
+  "contact": "",
+  "homepage": "",
+  "description": "Adds even faster inserters",
+  "dependencies": ["base >= 0.11.0"]
+}
